@@ -259,6 +259,10 @@ h1, h2, h3, h4, h5, h6 {
     display: table-cell;
 }
 
+#slitSlider .carousel-caption img{
+   width: 90rem;
+}
+
 #slitSlider .carousel-caption h2 {
     color: #FFF;
     font-family: Oswald, sans-serif;
@@ -306,6 +310,10 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 }
 
+.navbar-brand img {
+	width: 30rem;
+}
+
 .navbar-inverse .navbar-nav > li > a {
     color: #fff;
     font-size: 14px;
@@ -326,6 +334,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-inverse .navbar-nav > li > a:hover {
     color: #6cb670;
 }
+
 
 
 /*=================================================================
@@ -486,7 +495,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .service-block ul li {
-    list-style-type: disc;
+    list-style-type: circle;
+}
+
+.service-icon img{
+    width: 20rem;
 }
 
 
