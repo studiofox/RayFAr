@@ -215,7 +215,7 @@
 
     .navbar-inverse .navbar-toggle,
 	.navbar-inverse .navbar-toggle .icon-bar {
-        border-color: #4e595f;
+        border-color: #000000;
         border-radius: 0;
     }
 
@@ -431,7 +431,7 @@
     }
 
     .navbar-inverse .navbar-toggle {
-        border-color: #6CB670;
+        /* border-color: rgb(187,134,252); */
         border-radius: 0;
     }
 
