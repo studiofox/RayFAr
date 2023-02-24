@@ -24,8 +24,8 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 iframe{
     width: 100%;
     height: 100vh;
-    position: fixed;
-    z-index: -999;
+    /* position: fixed;
+    z-index: -999; */
 }
 
 /*=================================================================
@@ -588,11 +588,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .og-grid .mix a:hover img {
-	-webkit-transform: scale(1.4) rotate(15deg);
-	   -moz-transform: scale(1.4) rotate(15deg);
-		-ms-transform: scale(1.4) rotate(15deg);
-		 -o-transform: scale(1.4) rotate(15deg);
-			transform: scale(1.4) rotate(15deg);
+	-webkit-transform: scale(2) ;
+	   -moz-transform: scale(2) ;
+		-ms-transform: scale(2) ;
+		 -o-transform: scale(2);
+			transform: scale(2) ;
 }
 
 .hover-mask {

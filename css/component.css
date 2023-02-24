@@ -131,7 +131,7 @@
 	color: inherit;
 }
 
-.og-details a {
+/* .og-details a {
 	font-size: 16px;
 	color: #ffffff;
 	text-transform: capitalize;
@@ -152,7 +152,7 @@
 .og-details a:hover {
 	border-color: #ddd;
 	color: #ddd;
-}
+} */
 
 .og-loading {
 	width: 20px;
