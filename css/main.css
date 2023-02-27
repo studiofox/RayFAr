@@ -432,6 +432,11 @@ h1, h2, h3, h4, h5, h6 {
 	margin-right: 20px;
 }
 
+.feature-desc p {
+	padding: 2rem 0rem;
+    font-size: 2rem;
+}
+
 
 /*=================================================================
 	Item counter section
