@@ -1085,7 +1085,7 @@ h1, h2, h3, h4, h5, h6 {
 .contact-form {
 	/* margin-bottom: 40px; */
     justify-content: center;
-    margin: 0rem 27rem;
+    margin: 5rem 27rem;
 }
 
 .contact-form .form-control {
