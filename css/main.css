@@ -502,7 +502,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .service-block ul li {
-    list-style-type: circle;
+    list-style-type: none;
 }
 
 .service-icon img{
@@ -528,6 +528,8 @@ h1, h2, h3, h4, h5, h6 {
 .portfolio-filter ul li {
     display: inline;
 }
+
+
 
 .portfolio-filter ul li a {
 	color: #ddd;
