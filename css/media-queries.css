@@ -182,6 +182,12 @@
         width: 70%;
     }
 
+    .contact-form {
+        /* margin-bottom: 40px; */
+        margin: 2rem 2rem;
+    }
+    
+
     #slitSlider .carousel-caption h2 {
         font-size: 24px;
         letter-spacing: 0.5px;
