@@ -163,7 +163,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     top: 0;
     width: 100%;
-    z-index: 999999999;
+    /* z-index: 9; */
 }
 
 .loading-img {
@@ -253,7 +253,7 @@ h1, h2, h3, h4, h5, h6 {
     min-height: 100%;
     left: 0;
     top: 0;
-    z-index: 11;
+    /* z-index: 11; */
 	background: transparent ;
 }
 
@@ -297,7 +297,7 @@ h1, h2, h3, h4, h5, h6 {
 	/* background-color: #000000; */
     background: transparent;
 	width: 100%;
-	z-index: 99;
+	/* z-index: 99; */
     backdrop-filter: blur(10px);
   /* -webkit-filter: blur(8px); */
 }
@@ -391,7 +391,7 @@ h1, h2, h3, h4, h5, h6 {
 .icon-box:after {
 	content: "";
 	position: absolute;
-	z-index: 1;
+	/* z-index: 1; */
 	width: 113.14px;
 	height: 113.14px;
 	background-color: inherit;
@@ -689,7 +689,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 150px;
     text-align: center;
     width: 150px;
-    z-index: 2;
+    /* z-index: 2; */
 }
 
 .chart canvas {
@@ -1253,7 +1253,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 8px 12px;
     position: fixed;
     right: 20px;
-    z-index: 600;
+    /* z-index: 600; */
 }
 
 #scrollUp:hover {
