@@ -32,11 +32,6 @@ iframe{
 	Basic Setup
 ==================================================================*/
 
-html{
-    scroll-behavior: smooth;
-    overflow-x:scroll;
-}
-
 body {
     background-color: #000000;
     /* background: transparent; */
@@ -66,9 +61,9 @@ a {
 			transition: all .3s ease-in 0s;
 }
 
-iframe {
+/* iframe {
     border: 0;
-}
+} */
 
 a, a:focus, a:hover {
     text-decoration: none;
