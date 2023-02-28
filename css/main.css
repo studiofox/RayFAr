@@ -39,6 +39,7 @@ body {
     line-height: 1.5;
     color: #ddd;
     cursor: url("data:image/svg+xml,%3Csvg height='6' width='6' viewBox='0 0 8 8' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='4' cy='4' fill='%23eee' r='4'/%3E%3C/svg%3E") 3 3, auto;
+
 }
 
 ol, ul {
@@ -163,7 +164,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     top: 0;
     width: 100%;
-    /* z-index: 9; */
+    z-index: 999999999;
 }
 
 .loading-img {
@@ -253,7 +254,7 @@ h1, h2, h3, h4, h5, h6 {
     min-height: 100%;
     left: 0;
     top: 0;
-    /* z-index: 11; */
+    z-index: 11;
 	background: transparent ;
 }
 
@@ -297,7 +298,7 @@ h1, h2, h3, h4, h5, h6 {
 	/* background-color: #000000; */
     background: transparent;
 	width: 100%;
-	/* z-index: 99; */
+	z-index: 99;
     backdrop-filter: blur(10px);
   /* -webkit-filter: blur(8px); */
 }
@@ -318,7 +319,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-brand img {
-	width: 30rem;
+	width: 25rem;
+    
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -391,7 +393,7 @@ h1, h2, h3, h4, h5, h6 {
 .icon-box:after {
 	content: "";
 	position: absolute;
-	/* z-index: 1; */
+	z-index: 1;
 	width: 113.14px;
 	height: 113.14px;
 	background-color: inherit;
@@ -689,7 +691,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 150px;
     text-align: center;
     width: 150px;
-    /* z-index: 2; */
+    z-index: 2;
 }
 
 .chart canvas {
@@ -1253,7 +1255,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 8px 12px;
     position: fixed;
     right: 20px;
-    /* z-index: 600; */
+    z-index: 600;
 }
 
 #scrollUp:hover {
