@@ -243,18 +243,16 @@ h1, h2, h3, h4, h5, h6 {
 	Home Slider
 ==================================================================*/
 
-/* #home {
+#home {
     position: relative;
-} */
+}
 
 #slitSlider .carousel-caption {
-    position: absolute;
-    top: 50%;
 	padding: 0;
     display: table;
     height: 100%;
     width: 50%;
-    padding-left: 50%;
+    padding-left: 60%;
     min-height: 100%;
     left: 0;
     top: 0;
@@ -272,14 +270,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #slitSlider .carousel-caption img{
-   width: 90rem;
+   width: 20rem;
 }
 
 #slitSlider .carousel-caption h2 {
     color: #FFF;
     font-family: Oswald, sans-serif;
-    font-size: 70px;
-    font-weight: 700;
+    font-size: 10rem;
+    /* font-weight: 700; */
     margin-bottom: 40px;
     text-transform: uppercase;
 }
