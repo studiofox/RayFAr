@@ -34,7 +34,7 @@ iframe{
 
 html{
     scroll-behavior: smooth;
-    overflow:scroll
+    overflow-x:scroll;
 }
 
 body {
