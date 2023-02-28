@@ -29,7 +29,7 @@
     right: 0;
     bottom: 0;
     border-radius: var(--radius);
-    border: 2px solid #b55400;
+    border: 5px solid #b55400;
     opacity: var(--scale);
     -webkit-transform: scale(var(--scale));
             transform: scale(var(--scale));
