@@ -1,8 +1,9 @@
 
 
 #webgl iframe{
-    width: 100%;
+    width: 70%;
     height: 100vh;
+    margin-left: 40%;
     /* z-index: 999; */
     /* position: fixed;
     z-index: -999; */
@@ -12,9 +13,9 @@
 	Basic Setup
 ==================================================================*/
 
-html{
+/* html{
     overflow-y: hidden;
-}
+} */
 
 body {
     background-color: #000000;
