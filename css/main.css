@@ -165,7 +165,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     top: 0;
     width: 100%;
-    z-index: 999999999;
+    z-index: 99999999;
 }
 
 .loading-img {
