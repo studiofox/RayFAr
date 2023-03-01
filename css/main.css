@@ -12,6 +12,10 @@
 	Basic Setup
 ==================================================================*/
 
+html{
+    overflow-y: hidden;
+}
+
 body {
     background-color: #000000;
     /* background: transparent; */

@@ -200,10 +200,11 @@
     }
 
     #webgl iframe{
-        width: 500px;
+        width: 450px;
         height: 500px;
         margin-top: 250px;
-        margin-right: 1000px;
+        /* margin-right: 100px; */
+        justify-content: center;
         /* z-index: 999; */
         /* position: fixed;
         z-index: -999; */
